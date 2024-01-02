@@ -1,0 +1,144 @@
+labIniciarSeccion
+location(25;7)
+size(167;35)
+
+Formulario
+size(955;659)
+
+btnCerrar
+location(912;11)
+
+labTitulo
+location(355;40)
+
+btnHome
+location(77;143)
+
+txtBuscar
+location(137;150)
+
+
+
+btnBuscar
+location(441;145)
+
+labBuscarEscala
+Location(482;152)
+
+btnBuscarEscala
+location(600;145)
+
+listaEscala
+location(600;185)
+
+
+labBuscarUsuario 
+location(650,152)
+
+btnBuscarUsuario
+Location(717,145)
+
+listaBuscarUsuario
+location(717,185)
+
+labBuscarTexitura
+location(763,152)
+
+btnBuscarTexitura
+location(830,145)
+
+listaTexitura
+location(830,185)
+
+lineaHorizontal
+location(77,185)
+
+lineaVertical
+location(68;229)
+
+labTituloCanciones
+Location(71;266)
+
+vistaGeneral
+location(77;273)
+
+=================================
+            Movidos 
+=================================
+
+
+controlOpciones
+location(25; 273)
+
+labIniciarSeccion
+location(25;7)
+size(167;35)
+
+Formulario
+size(1122; 659)
+
+btnCerrar
+location(1079, 11)
+
+btnHome
+location(231, 140)
+
+txtBuscar
+location(291, 150)
+
+btnBuscar
+location(595, 145)
+
+labBuscarEscala
+Location(636, 152)
+
+btnBuscarEscala
+location(754, 145)
+
+listaEscala
+location(754,185)
+
+
+labBuscarUsuario 
+location(804,152)
+
+btnBuscarUsuario
+Location(871,145)
+
+listaUsuario
+location(871, 185)
+
+labBuscarTexitura
+location(917,152)
+
+btnBuscarTexitura
+location(984,145)
+
+listaTexitura
+location(984, 185)
+
+lineaHorizontal
+location(231,185)
+
+lineaVertical
+location(68,229)
+
+labTituloCanciones
+Location(225, 226)
+
+vistaGeneral
+location(231,273)
+
+
+
+
+
+
+509; 400
+Elvis1924*
+
+
+
+
+509; 479
+
